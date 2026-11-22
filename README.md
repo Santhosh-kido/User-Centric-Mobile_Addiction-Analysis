@@ -88,9 +88,9 @@ The API runs on http://localhost:5001.
 **3. Start the frontend** (in a second terminal)
 ```
 cd frontend
-python -m http.server 8000
+python -m http.server 5500
 ```
-Open http://localhost:8000.
+Open http://localhost:5500.
 
 ## API
 
@@ -117,6 +117,11 @@ Accuracy is measured on `Testing.csv`. Because the classes are imbalanced, accur
 <img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/4347b7da-d590-408f-b503-1a0ae4161b2b" />
 <img width="1915" height="945" alt="image" src="https://github.com/user-attachments/assets/61acdd26-b754-46e5-bf96-8b9b2afa5f86" />
 <img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/63ed6ffe-2939-4bcc-94ed-edd318baa7c0" />
+
+
+
+##Screenshots
+
 
 
 
