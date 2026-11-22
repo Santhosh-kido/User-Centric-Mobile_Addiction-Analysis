@@ -112,6 +112,13 @@ Response: JSON with the overall risk label, the addiction percentage and the mod
 | Gradient Boosting | <value> |
 
 Accuracy is measured on `Testing.csv`. Because the classes are imbalanced, accuracy alone can look better than the model really is.
+## Screenshot
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/9a1daeeb-269a-41ac-9df6-c49fe4caacdb" />
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/4347b7da-d590-408f-b503-1a0ae4161b2b" />
+<img width="1915" height="945" alt="image" src="https://github.com/user-attachments/assets/61acdd26-b754-46e5-bf96-8b9b2afa5f86" />
+<img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/63ed6ffe-2939-4bcc-94ed-edd318baa7c0" />
+
+
 
 ## Known Limitations
 
